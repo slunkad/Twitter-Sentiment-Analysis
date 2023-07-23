@@ -1,7 +1,7 @@
 # Twitter-Sentiment-Analysis
 ## Overview
 
-In this project, we will solve the Twitter Sentiment Analysis Practice Problem.
+In this project, we will solve the Twitter Sentiment Analysis.
 
 We will do so by following a sequence of steps needed to solve a general sentiment analysis problem. We will start with preprocessing and cleaning of the raw text of the tweets. Then we will explore the cleaned text and try to get some intuition about the context of the tweets. After that, we will extract numerical features from the data and finally use these feature sets to train models and identify the sentiments of the tweets.
 
